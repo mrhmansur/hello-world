@@ -14,3 +14,9 @@ So is this really a mark down file?
 ```c
 int main(int argc, char** argv)
 ```
+### And now for some python
+```python
+import sys
+
+print('Hello World!')
+```
