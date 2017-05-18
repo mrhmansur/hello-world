@@ -19,5 +19,5 @@ int main(int argc, char** argv)
 import sys
 
 print('Hello World!')
-print('Goodbye World, but force a merge first!')
+print('Goodbye World, but cause a merge first!')
 ```
